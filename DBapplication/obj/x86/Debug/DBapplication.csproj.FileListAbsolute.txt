@@ -1,0 +1,48 @@
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Form1.resources
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\marwan\Desktop\labexam2\Lab6 - Accessing DB from C# App - part 2_std\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Form1.resources
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Register.resources
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.notification.resources
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.viewinfostudent.resources
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\marwan\Desktop\labexam2\iflogin\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.mysessions.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Form1.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.MyCourses.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.mysessions.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.notification.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Register.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.viewinfostudent.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Add_coursesT.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Delete_coursesT.resources
+C:\Users\Shorouk\Desktop\kefah new edition\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.EditProfile.resources
+E:\KS\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+E:\KS\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\KS\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+E:\College\Projects\KS\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+E:\College\Projects\KS\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\College\Projects\KS\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
